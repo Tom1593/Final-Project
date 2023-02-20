@@ -1,0 +1,24 @@
+﻿  Source.c
+H:\project\C code\predict\predict\Source.c(28,31): error C2057: expected constant expression
+H:\project\C code\predict\predict\Source.c(28,31): error C2466: cannot allocate an array of constant size 0
+H:\project\C code\predict\predict\Source.c(28,47): error C2065: 'numHiddenNodes': undeclared identifier
+H:\project\C code\predict\predict\Source.c(28,47): error C2057: expected constant expression
+H:\project\C code\predict\predict\Source.c(28,47): error C2466: cannot allocate an array of constant size 0
+H:\project\C code\predict\predict\Source.c(28,47): error C2087: 'hiddenWeights': missing subscript
+H:\project\C code\predict\predict\Source.c(29,36): error C2065: 'numHiddenNodes': undeclared identifier
+H:\project\C code\predict\predict\Source.c(29,36): error C2057: expected constant expression
+H:\project\C code\predict\predict\Source.c(29,36): error C2466: cannot allocate an array of constant size 0
+H:\project\C code\predict\predict\Source.c(29,48): error C2057: expected constant expression
+H:\project\C code\predict\predict\Source.c(29,48): error C2466: cannot allocate an array of constant size 0
+H:\project\C code\predict\predict\Source.c(29,48): error C2087: 'outputWeights': missing subscript
+H:\project\C code\predict\predict\Source.c(36,19): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+H:\project\C code\predict\predict\Source.c(36,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+H:\project\C code\predict\predict\Source.c(64,36): error C2065: 'numHiddenNodes': undeclared identifier
+H:\project\C code\predict\predict\Source.c(66,38): error C2065: 'hiddenLayerBias': undeclared identifier
+H:\project\C code\predict\predict\Source.c(66,40): error C2109: subscript requires array or pointer type
+H:\project\C code\predict\predict\Source.c(68,33): error C2065: 'training_inputs': undeclared identifier
+H:\project\C code\predict\predict\Source.c(68,35): error C2065: 'i': undeclared identifier
+H:\project\C code\predict\predict\Source.c(68,35): error C2109: subscript requires array or pointer type
+H:\project\C code\predict\predict\Source.c(70,14): error C2065: 'hiddenLayer': undeclared identifier
+H:\project\C code\predict\predict\Source.c(70,16): error C2109: subscript requires array or pointer type
+H:\project\C code\predict\predict\Source.c(70,27): warning C4013: 'sigmoid' undefined; assuming extern returning int
